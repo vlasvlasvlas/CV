@@ -1,2 +1,7 @@
-# CV 
-* Actualizado a 2017
+# Whats this
+
+- My resume / CV, in english and spanish.
+
+# Why
+
+- Why not?
