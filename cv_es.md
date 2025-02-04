@@ -64,10 +64,10 @@
 
   ## **Habilidades Técnicas**
 
-  - **Lenguajes**: Python, SQL, T-SQL, Bash, C#, JavaScript.
-  - **Bases de Datos**: PostgreSQL, MSSQL, SQLite, CKAN.
+  - **Lenguajes**: Python, SQL, T-SQL, Bash, JavaScript.
+  - **Bases de Datos**: PostgreSQL, MSSQL, NoSQL
   - **Cloud & Big Data**: Azure, Databricks, Apache Spark, FastAPI, Airflow.
-  - **IA & NLP**: LangChain, OpenAI, NLP, Modelos de LLMs.
+  - **IA & NLP**: LangChain, OpenAI, NLP, RAG's, Modelos de LLMs.
   - **ETL & Data Engineering**: SSIS, Great Expectations, Gitflow.
 
   ## **Cursos y Certificaciones**
