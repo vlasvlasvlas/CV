@@ -27,7 +27,7 @@ Professional with over 10 years of experience in data engineering, artificial in
 
 ### **Data Engineer and AI Developer - BIT-C Colombia**
 
-📅 May 2024 (1 month) - Remote
+📅 May 2024 (6 months) - Remote
 
 - Financial dialogue analysis and summarization project using **Azure OpenAI and Azure Functions**.
 - SQL database connection, transcript processing, value extraction, and token consumption optimization.

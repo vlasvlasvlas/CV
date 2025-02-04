@@ -27,7 +27,7 @@
 
   ### **Ingeniero de Datos y Desarrollo de IA - BIT-C Colombia**
 
-  📅 Mayo 2024 (1 mes) - Remoto
+  📅 Mayo 2024 (6 meses) - Remoto
 
   - Proyecto de análisis y resumen de diálogos financieros con **Azure OpenAI y Azure Functions**.
   - Conexión a SQL, procesamiento de transcripciones, extracción de valores y optimización de consumo de tokens.
